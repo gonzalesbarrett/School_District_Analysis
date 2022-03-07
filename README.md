@@ -44,7 +44,7 @@ There are only 461 students in 9th grade at Thomas High School so it is not surp
 
 **Top Schools (Original)**
 
-!Top Schools (Original)(https://github.com/gonzalesbarrett/School_District_Analysis/blob/main/PNGs/Top%20Schools%20(Old).png)
+![Top Schools (Original)](https://github.com/gonzalesbarrett/School_District_Analysis/blob/main/PNGs/Top%20Schools%20(Old).png)
 
 **Top Schools (Updated)**
 
@@ -69,7 +69,7 @@ There are only 461 students in 9th grade at Thomas High School so it is not surp
 
 ![Math Scores (Updated)](https://github.com/gonzalesbarrett/School_District_Analysis/blob/main/PNGs/Math%20Scores%20(New).png)
 
-- Summary of differences
+- 9th grade for Thomas High School correctly showing NaN. No other numbers affected.
 
 **Reading Scores (Original)**
 
@@ -79,7 +79,7 @@ There are only 461 students in 9th grade at Thomas High School so it is not surp
 
 ![Reading Scores (Updated)](https://github.com/gonzalesbarrett/School_District_Analysis/blob/main/PNGs/Reading%20Scores%20(New).png)
 
-- Summary of differences
+- Reading scores not affected.
 
 **Spending Summary (Original)**
 
@@ -89,7 +89,7 @@ There are only 461 students in 9th grade at Thomas High School so it is not surp
 
 ![Spending Summary (Updated)](https://github.com/gonzalesbarrett/School_District_Analysis/blob/main/PNGs/Spending%20Summary%20(New).png)
 
-- Summary of differences
+- Small changes to the scores for the group $630-644 (less than 1%). 
 
 **School Size (Original)**
 
@@ -99,7 +99,7 @@ There are only 461 students in 9th grade at Thomas High School so it is not surp
 
 ![School Size (Updated)](https://github.com/gonzalesbarrett/School_District_Analysis/blob/main/PNGs/School%20Size%20(New).png)
 
-- Summary of differences
+- The changes affected the Medium(1000-2000) group slightly (less than 1%)
 
 **School Type (Original)**
 
@@ -109,5 +109,12 @@ There are only 461 students in 9th grade at Thomas High School so it is not surp
 
 ![School Type (Updated)](https://github.com/gonzalesbarrett/School_District_Analysis/blob/main/PNGs/School%20Type%20(New).png)
 
-- Summary of differences
+- Since Thomas High School is a Charter school there were some small changes (less than 1%) to the results
 
+## Summary
+
+- For the district analysis, all scores changed on average .05% or less. 
+- Top school ranking was not affected even though Thomas High School's % Overall Passing did decrease slightly
+- The School Spending scores were slightly impacted in the $630-644 section.
+- The School Size scores were slightly affected in the Medium category.
+- The School Type scores were slightly affected in the Charter section.
